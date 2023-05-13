@@ -60,4 +60,8 @@ public class DigitalVideoDisc {
 	public DigitalVideoDisc(String title) {
 		this.title = title;
 	}
+	public static main(){
+		DigitalVideoDisc DVD= new DigitalVideoDisc;
+		System.println.out(DVD.getCategory);
+	}
 }
